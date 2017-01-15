@@ -13,6 +13,6 @@ to learn the NodeJS & Express.js environment and capabilities:
 | JADE                 | jade.js          |
 | GOOD OLD FORM        | form.js          |
 | SYLISH CSS           | stylish.js       |
-| PARAM PAM PAM        | |
+| PARAM PAM PAM        | param.js         |
 | WHATS IN QUERY       | |
 | JSON ME              | |
