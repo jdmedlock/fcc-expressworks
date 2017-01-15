@@ -12,7 +12,7 @@ to learn the NodeJS & Express.js environment and capabilities:
 | STATIC               | static.js        |
 | JADE                 | jade.js          |
 | GOOD OLD FORM        | form.js          |
-| SYLISH CSS           | |
+| SYLISH CSS           | stylish.js       |
 | PARAM PAM PAM        | |
 | WHATS IN QUERY       | |
 | JSON ME              | |
