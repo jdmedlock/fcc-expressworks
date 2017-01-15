@@ -1,4 +1,4 @@
-// Program: static.js
+// Program: jade.js
 // Author:  Jim Medlock
 // Date written: 1/15/2017
 
