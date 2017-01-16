@@ -14,5 +14,5 @@ to learn the NodeJS & Express.js environment and capabilities:
 | GOOD OLD FORM        | form.js          |
 | SYLISH CSS           | stylish.js       |
 | PARAM PAM PAM        | param.js         |
-| WHATS IN QUERY       | |
+| WHATS IN QUERY       | whatsinquery     |
 | JSON ME              | |
